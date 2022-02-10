@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Dr Alejandro Granados"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/KCL_logo.png"
   bio    : "Lecturer in Surgical Data Science at King's College London."
   links:
     - label: "Website"
